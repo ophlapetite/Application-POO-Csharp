@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewBag.Title = "Rechercher une Pioche";
+}
+
+<h2>Rechercher une Pioche</h2>
+
+<div>
+    @using (Html.BeginForm("RechercherPioche", "RechercherPioche", FormMethod.Get))
+    {
+        <p>Nom cherché?</p>
+        @Html.TextBox("nomRecherche")
+        <input type="submit" value="Rechercher" />
+    }
+</div>
+
+<div>
+    @if (ViewBag.error == "0")
+    {
+        GestionPioches.Pioche pi = Model;
+        <br /><br />
+
+        <p>@Html.LabelFor(_ => pi.Nom)@Html.DisplayFor(_ => pi.Nom)</p>
+        <p>@Html.LabelFor(_ => pi.Description)@Html.DisplayFor(_ => pi.Description)</p>
+        <p>@Html.LabelFor(_ => pi.RareteS)@Html.DisplayFor(_ => pi.RareteS)</p>
+        <p>@Html.LabelFor(_ => pi.Prix)@Html.DisplayFor(_ => pi.Prix)</p>
+        <p>@Html.LabelFor(_ => pi.DateParution)@Html.DisplayFor(_ => pi.DateParution)</p>
+        <p>@Html.LabelFor(_ => pi.Photo)<img src="~/images/@Html.DisplayFor(_ => pi.Photo)" height="200" width="200" /></p>
+        
+    }
+    else
+    { <br /><br /><p>Pas de pioche pour ce nom</p>}
+</div>

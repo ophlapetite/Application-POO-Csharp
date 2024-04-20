@@ -1,0 +1,37 @@
+﻿
+@{
+    ViewBag.Title = "Rechercher par Rareté";
+}
+
+<h2>Rechercher par Rareté </h2>
+
+<div>
+    @using (Html.BeginForm("RechercherRarete", "RechercherRarete", FormMethod.Get))
+    {
+        <p>Rareté recherchée?</p>
+
+        @Html.DropDownList("rareteRecherche",new SelectList(Enum.GetNames(typeof(GestionPioches.categorieRarete))))
+        <input type="submit" value="Rechercher" />
+    }
+</div>
+
+<div>
+    @if (ViewBag.error == "0")
+    {
+        List<GestionPioches.Pioche> lp = Model;
+        foreach (GestionPioches.Pioche pi in lp)
+        {
+            <br /><br />
+
+            <p>@Html.LabelFor(_ => pi.Nom)@Html.DisplayFor(_ => pi.Nom)</p>
+            <p>@Html.LabelFor(_ => pi.Description)@Html.DisplayFor(_ => pi.Description)</p>
+            <p>@Html.LabelFor(_ => pi.RareteS)@Html.DisplayFor(_ => pi.RareteS)</p>
+            <p>@Html.LabelFor(_ => pi.Prix)@Html.DisplayFor(_ => pi.Prix)</p>
+            <p>@Html.LabelFor(_ => pi.DateParution)@Html.DisplayFor(_ => pi.DateParution)</p>
+            <p>@Html.LabelFor(_ => pi.Photo)<img src="~/images/@pi.Photo" height="100" width="100" /></p>
+        }
+
+    }
+    else
+    { <br /><br /><p>Pas de pioche pour cette rareté</p>}
+</div>

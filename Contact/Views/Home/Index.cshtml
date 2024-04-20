@@ -1,0 +1,41 @@
+﻿
+@{
+    ViewBag.Title = "Page d'accueil";
+}
+
+<div class="jumbotron">
+
+    <h1><img src="~/images/fortnite.jpg" /></h1>
+
+    <p class="lead">Application de gestion des équipements du jeu fortnite.</p>
+
+    <p><a href="https://www.epicgames.com/fortnite/fr/home" class="btn btn-primary btn-lg">En savoir plus &raquo;</a></p>
+
+</div>
+
+<div class="row">
+	<div class="col-md-4">
+		<h2>Affichez toutes les pioches</h2>
+		<p>
+			L'application permet de visualiser toutes les pioches du jeu
+		</p>
+		<p><a class="btn btn-default" href=@Url.Action("AfficherPioches", "AfficherPioches")>Afficher</a></p>
+	</div>
+	<div class="col-md-4">
+		<h2>Rechercher une pioche</h2>
+		<p>L'application permet de visualiser le détail d'une pioche à partir de son nom</p>
+		<p><a class="btn btn-default" href=@Url.Action("RechercherPioche", "RechercherPioche")>Rechercher</a></p>
+	</div>
+	<div class="col-md-4">
+		<h2>Ajouter une pioche</h2>
+		<p>L'application permet d'ajouter une pioche pour le jeu à l'aide d'un formulaire</p>
+
+		<p><a class="btn btn-default" href=@Url.Action("AjouterPioche", "AjouterPioche")>Ajouter</a></p>
+
+	</div>
+	<div class="col-md-4">
+		<h2>Rechercher les pioches par rareté</h2>
+		<p>L'application permet d'afficher les pioches selon une rareté sélectionnée</p>
+		<p><a class="btn btn-default" href=@Url.Action("RechercherRarete", "RechercherRarete")>Rechercher</a></p>
+	</div>
+</div>

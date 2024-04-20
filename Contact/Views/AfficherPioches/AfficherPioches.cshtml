@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewBag.Title = "Afficher les Pioches";
+}
+
+<h2>Afficher les Pioches</h2>
+
+<table>
+    <thead><tr>Liste des équipements de type pioches du joueur.</tr></thead>
+    <tbody>
+        @foreach (GestionPioches.Pioche pi in Model)
+        {
+     
+            <tr>
+                <td width="200">@Html.LabelFor(_ => pi.Nom)@Html.DisplayFor(_ => pi.Nom) </td>
+
+                <td width="300">@Html.LabelFor(_ => pi.Description)@Html.DisplayFor(_ => pi.Description) </td>
+                <td width="200">@Html.LabelFor(_ => pi.RareteS)@Html.DisplayFor(_ => pi.RareteS) </td>
+                <td width="200">@Html.LabelFor(_ => pi.Prix)@Html.DisplayFor(_ => pi.Prix) </td>
+                <td width="300">@Html.LabelFor(_ => pi.DateParution)@Html.DisplayFor(_ => pi.DateParution) </td>
+                <td width="200">@Html.LabelFor(_ => pi.Photo)<img src="~/images/@pi.Photo" height="100" width="100"/></td>
+
+            </tr>
+            
+        }
+    </tbody>
+</table>
+

@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewBag.Title = "Ajouter une Pioche";
+}
+
+<h2>Ajouter une Pioche</h2>
+
+@model GestionPioches.Pioche 
+
+
+
+<div>
+    @using (Html.BeginForm("AjouterPioche", "AjouterPioche"))
+    {
+        <br /> <br />
+
+        <p>@Html.LabelFor(p => p.Nom)@Html.EditorFor(p => p.Nom)</p>
+
+        <p>@Html.LabelFor(p => p.Description)@Html.EditorFor(p => p.Description)</p>
+        <p>@Html.LabelFor(p => p.RareteS)@Html.DropDownListFor(p => p.RareteS, new SelectList(Enum.GetNames(typeof(GestionPioches.categorieRarete))))</p>
+        <p>@Html.LabelFor(p => p.Prix)@Html.EditorFor(p => p.Prix)</p>
+        <p>@Html.LabelFor(p => p.DateParution)@Html.EditorFor(p => p.DateParution)</p>
+        <p>@Html.LabelFor(p => p.Photo)@Html.EditorFor(p => p.Photo)</p>
+        <p><input type="submit" value="Valider" /></p>
+    }
+</div>
