@@ -1,0 +1,253 @@
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\Contact.dll.config
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\Contact.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\Contact.pdb
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\roslyn\csc.exe
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\roslyn\csc.exe.config
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\roslyn\csc.rsp
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\roslyn\csi.exe
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\roslyn\csi.exe.config
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\roslyn\csi.rsp
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\roslyn\System.AppContext.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\roslyn\System.Console.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\roslyn\vbc.exe
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\roslyn\vbc.exe.config
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\roslyn\vbc.rsp
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\Antlr3.Runtime.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\Newtonsoft.Json.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\System.Web.Helpers.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\System.Web.Mvc.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\System.Web.Optimization.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\System.Web.Razor.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\System.Web.WebPages.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\WebGrease.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\System.Web.Helpers.xml
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\System.Web.Mvc.xml
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\System.Web.Optimization.xml
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\System.Web.Razor.xml
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\System.Web.WebPages.xml
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\Newtonsoft.Json.xml
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\Antlr3.Runtime.pdb
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\fr\System.Web.Razor.resources.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\obj\Debug\Fortnite.csprojAssemblyReference.cache
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\obj\Debug\Contact.Properties.Resources.resources
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\obj\Debug\Fortnite.csproj.GenerateResource.cache
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\obj\Debug\Fortnite.csproj.CopyComplete
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\obj\Debug\Contact.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\obj\Debug\Contact.pdb
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\Contact.dll.config
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\Contact.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\Contact.pdb
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\csc.exe
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\csc.exe.config
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\csc.rsp
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\csi.exe
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\csi.exe.config
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\csi.rsp
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\System.AppContext.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\System.Console.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\vbc.exe
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\vbc.exe.config
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\vbc.rsp
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\Antlr3.Runtime.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\Newtonsoft.Json.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\System.Web.Helpers.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\System.Web.Mvc.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\System.Web.Optimization.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\System.Web.Razor.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\System.Web.WebPages.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\WebGrease.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\System.Web.Helpers.xml
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\System.Web.Mvc.xml
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\System.Web.Optimization.xml
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\System.Web.Razor.xml
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\System.Web.WebPages.xml
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\Newtonsoft.Json.xml
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\Antlr3.Runtime.pdb
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\fr\System.Web.Razor.resources.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\obj\Debug\Fortnite.csprojAssemblyReference.cache
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\obj\Debug\Contact.Properties.Resources.resources
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\obj\Debug\Fortnite.csproj.GenerateResource.cache
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\obj\Debug\Fortnite.csproj.CopyComplete
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\obj\Debug\Contact.dll
+C:\Users\Ophelie CLUZEL\Desktop\CDAA partie 3\CDAAPartie3\Contact\obj\Debug\Contact.pdb
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\Contact.dll.config
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\Contact.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\Contact.pdb
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\csc.exe
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\csc.exe.config
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\csc.rsp
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\csi.exe
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\csi.exe.config
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\csi.rsp
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\System.AppContext.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\System.Console.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\System.IO.Compression.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\System.IO.Pipes.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\System.Security.Claims.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\System.ValueTuple.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\vbc.exe
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\vbc.exe.config
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\vbc.rsp
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\VBCSCompiler.exe
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\Antlr3.Runtime.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\Newtonsoft.Json.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\System.Web.Helpers.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\System.Web.Mvc.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\System.Web.Optimization.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\System.Web.Razor.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\System.Web.WebPages.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\System.Web.WebPages.Razor.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\WebGrease.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\System.Web.Helpers.xml
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\System.Web.Mvc.xml
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\System.Web.Optimization.xml
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\System.Web.Razor.xml
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\System.Web.WebPages.xml
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\System.Web.WebPages.Razor.xml
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\Newtonsoft.Json.xml
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\Antlr3.Runtime.pdb
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\fr\System.Web.Razor.resources.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\obj\Debug\Fortnite.csproj.AssemblyReference.cache
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\obj\Debug\Contact.Properties.Resources.resources
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\obj\Debug\Fortnite.csproj.GenerateResource.cache
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\obj\Debug\Fortnite.csproj.CoreCompileInputs.cache
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\obj\Debug\Fortnite.csproj.CopyComplete
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\obj\Debug\Contact.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\CDAA partie 3\CDAAPartie3\Contact\obj\Debug\Contact.pdb

@@ -1,0 +1,3 @@
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\obj\Debug\CDAA Application.csprojAssemblyReference.cache
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\obj\Debug\Contact.dll
+C:\Users\Ophelie CLUZEL\Desktop\Contact\Contact\obj\Debug\Contact.pdb
