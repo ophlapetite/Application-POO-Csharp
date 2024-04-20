@@ -1,0 +1,106 @@
+C:\Users\TEMP.DIEM.000.001.002.003.004.005.006.007.008\Desktop\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\bin\Debug\ProjetFBRWF.exe.config
+C:\Users\TEMP.DIEM.000.001.002.003.004.005.006.007.008\Desktop\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\bin\Debug\ProjetFBRWF.exe
+C:\Users\TEMP.DIEM.000.001.002.003.004.005.006.007.008\Desktop\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\bin\Debug\ProjetFBRWF.pdb
+C:\Users\TEMP.DIEM.000.001.002.003.004.005.006.007.008\Desktop\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.csprojAssemblyReference.cache
+C:\Users\TEMP.DIEM.000.001.002.003.004.005.006.007.008\Desktop\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.Properties.Resources.resources
+C:\Users\TEMP.DIEM.000.001.002.003.004.005.006.007.008\Desktop\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.csproj.GenerateResource.cache
+C:\Users\TEMP.DIEM.000.001.002.003.004.005.006.007.008\Desktop\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.DIEM.000.001.002.003.004.005.006.007.008\Desktop\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.exe
+C:\Users\TEMP.DIEM.000.001.002.003.004.005.006.007.008\Desktop\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.pdb
+C:\Users\TEMP.DIEM.000.001.002.003.004.005.006.007.008\Desktop\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.Form1.resources
+C:\Users\Ophelie CLUZEL\Desktop\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\bin\Debug\ProjetFBRWF.exe.config
+C:\Users\Ophelie CLUZEL\Desktop\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\bin\Debug\ProjetFBRWF.exe
+C:\Users\Ophelie CLUZEL\Desktop\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\bin\Debug\ProjetFBRWF.pdb
+C:\Users\Ophelie CLUZEL\Desktop\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.csprojAssemblyReference.cache
+C:\Users\Ophelie CLUZEL\Desktop\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.Form1.resources
+C:\Users\Ophelie CLUZEL\Desktop\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.Properties.Resources.resources
+C:\Users\Ophelie CLUZEL\Desktop\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.csproj.GenerateResource.cache
+C:\Users\Ophelie CLUZEL\Desktop\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.exe
+C:\Users\Ophelie CLUZEL\Desktop\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.pdb
+C:\Users\Ophelie CLUZEL\Desktop\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\bin\Debug\System.Drawing.Common.dll
+C:\Users\Ophelie CLUZEL\Desktop\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.csproj.CopyComplete
+C:\Users\TEMP.DIEM.000.001.002.003.004\Desktop\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\bin\Debug\ProjetFBRWF.exe.config
+C:\Users\TEMP.DIEM.000.001.002.003.004\Desktop\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\bin\Debug\ProjetFBRWF.exe
+C:\Users\TEMP.DIEM.000.001.002.003.004\Desktop\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\bin\Debug\ProjetFBRWF.pdb
+C:\Users\TEMP.DIEM.000.001.002.003.004\Desktop\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\bin\Debug\System.Drawing.Common.dll
+C:\Users\TEMP.DIEM.000.001.002.003.004\Desktop\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.csprojAssemblyReference.cache
+C:\Users\TEMP.DIEM.000.001.002.003.004\Desktop\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.Form1.resources
+C:\Users\TEMP.DIEM.000.001.002.003.004\Desktop\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.Properties.Resources.resources
+C:\Users\TEMP.DIEM.000.001.002.003.004\Desktop\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.csproj.GenerateResource.cache
+C:\Users\TEMP.DIEM.000.001.002.003.004\Desktop\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.DIEM.000.001.002.003.004\Desktop\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.csproj.CopyComplete
+C:\Users\TEMP.DIEM.000.001.002.003.004\Desktop\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.exe
+C:\Users\TEMP.DIEM.000.001.002.003.004\Desktop\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.pdb
+C:\Users\Ophelie CLUZEL\Desktop\partie2CDAA\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\bin\Debug\ProjetFBRWF.exe.config
+C:\Users\Ophelie CLUZEL\Desktop\partie2CDAA\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\bin\Debug\ProjetFBRWF.exe
+C:\Users\Ophelie CLUZEL\Desktop\partie2CDAA\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\bin\Debug\ProjetFBRWF.pdb
+C:\Users\Ophelie CLUZEL\Desktop\partie2CDAA\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\bin\Debug\System.Drawing.Common.dll
+C:\Users\Ophelie CLUZEL\Desktop\partie2CDAA\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.csprojAssemblyReference.cache
+C:\Users\Ophelie CLUZEL\Desktop\partie2CDAA\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.Form1.resources
+C:\Users\Ophelie CLUZEL\Desktop\partie2CDAA\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.Properties.Resources.resources
+C:\Users\Ophelie CLUZEL\Desktop\partie2CDAA\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.csproj.GenerateResource.cache
+C:\Users\Ophelie CLUZEL\Desktop\partie2CDAA\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.csproj.CopyComplete
+C:\Users\Ophelie CLUZEL\Desktop\partie2CDAA\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.exe
+C:\Users\Ophelie CLUZEL\Desktop\partie2CDAA\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.pdb
+C:\Users\Ophelie CLUZEL\Desktop\partie2CDAA\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.SaisieSkinDlg.resources
+C:\Users\Ophelie CLUZEL\Documents\L3\partie2CDAA\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\bin\Debug\ProjetFBRWF.exe.config
+C:\Users\Ophelie CLUZEL\Documents\L3\partie2CDAA\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\bin\Debug\ProjetFBRWF.exe
+C:\Users\Ophelie CLUZEL\Documents\L3\partie2CDAA\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\bin\Debug\ProjetFBRWF.pdb
+C:\Users\Ophelie CLUZEL\Documents\L3\partie2CDAA\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\bin\Debug\System.Drawing.Common.dll
+C:\Users\Ophelie CLUZEL\Documents\L3\partie2CDAA\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.csprojAssemblyReference.cache
+C:\Users\Ophelie CLUZEL\Documents\L3\partie2CDAA\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.Form1.resources
+C:\Users\Ophelie CLUZEL\Documents\L3\partie2CDAA\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.Properties.Resources.resources
+C:\Users\Ophelie CLUZEL\Documents\L3\partie2CDAA\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.SaisieSkinDlg.resources
+C:\Users\Ophelie CLUZEL\Documents\L3\partie2CDAA\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.VisuSkinDlg.resources
+C:\Users\Ophelie CLUZEL\Documents\L3\partie2CDAA\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.csproj.GenerateResource.cache
+C:\Users\Ophelie CLUZEL\Documents\L3\partie2CDAA\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.csproj.CopyComplete
+C:\Users\Ophelie CLUZEL\Documents\L3\partie2CDAA\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.exe
+C:\Users\Ophelie CLUZEL\Documents\L3\partie2CDAA\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.pdb
+C:\Users\TEMP.DIEM.000.001.002.003.004.005.006.007.008.009.010.011.012\Desktop\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.csprojAssemblyReference.cache
+C:\Users\TEMP.DIEM.000.001.002.003.004.005.006.007.008.009.010.011.012\Desktop\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.Form1.resources
+C:\Users\TEMP.DIEM.000.001.002.003.004.005.006.007.008.009.010.011.012\Desktop\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.MajDlg.resources
+C:\Users\TEMP.DIEM.000.001.002.003.004.005.006.007.008.009.010.011.012\Desktop\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.Properties.Resources.resources
+C:\Users\TEMP.DIEM.000.001.002.003.004.005.006.007.008.009.010.011.012\Desktop\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.SaisieSkinDlg.resources
+C:\Users\TEMP.DIEM.000.001.002.003.004.005.006.007.008.009.010.011.012\Desktop\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.VisuSkinDlg.resources
+C:\Users\TEMP.DIEM.000.001.002.003.004.005.006.007.008.009.010.011.012\Desktop\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.csproj.GenerateResource.cache
+C:\Users\TEMP.DIEM.000.001.002.003.004.005.006.007.008.009.010.011.012\Desktop\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.DIEM.000.001.002.003.004.005.006.007.008.009.010.011.012\Desktop\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.exe
+C:\Users\TEMP.DIEM.000.001.002.003.004.005.006.007.008.009.010.011.012\Desktop\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.pdb
+C:\Users\TEMP.DIEM.000.001.002.003.004.005.006.007.008.009.010.011.012\Desktop\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\bin\Debug\ProjetFBRWF.exe.config
+C:\Users\TEMP.DIEM.000.001.002.003.004.005.006.007.008.009.010.011.012\Desktop\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\bin\Debug\ProjetFBRWF.exe
+C:\Users\TEMP.DIEM.000.001.002.003.004.005.006.007.008.009.010.011.012\Desktop\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\bin\Debug\ProjetFBRWF.pdb
+C:\Users\TEMP.DIEM.000.001.002.003.004.005.006.007.008.009.010.011.012\Desktop\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\bin\Debug\System.Drawing.Common.dll
+C:\Users\TEMP.DIEM.000.001.002.003.004.005.006.007.008.009.010.011.012\Desktop\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.csproj.CopyComplete
+C:\Users\Ophelie CLUZEL\Desktop\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\bin\Debug\ProjetFBRWF.exe.config
+C:\Users\Ophelie CLUZEL\Desktop\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\bin\Debug\ProjetFBRWF.exe
+C:\Users\Ophelie CLUZEL\Desktop\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\bin\Debug\ProjetFBRWF.pdb
+C:\Users\Ophelie CLUZEL\Desktop\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\bin\Debug\System.Drawing.Common.dll
+C:\Users\Ophelie CLUZEL\Desktop\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.csprojAssemblyReference.cache
+C:\Users\Ophelie CLUZEL\Desktop\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.Form1.resources
+C:\Users\Ophelie CLUZEL\Desktop\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.MajDlg.resources
+C:\Users\Ophelie CLUZEL\Desktop\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.Properties.Resources.resources
+C:\Users\Ophelie CLUZEL\Desktop\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.csproj.GenerateResource.cache
+C:\Users\Ophelie CLUZEL\Desktop\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.csproj.CopyComplete
+C:\Users\Ophelie CLUZEL\Desktop\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.exe
+C:\Users\Ophelie CLUZEL\Desktop\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.pdb
+C:\Users\Ophelie CLUZEL\Desktop\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.AvatarDlg.resources
+C:\Users\Ophelie CLUZEL\Desktop\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.VisuDlg.resources
+C:\Users\Ophelie CLUZEL\Desktop\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.SuppDlg.resources
+C:\Users\Ophelie CLUZEL\Desktop\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.SaisieDlg.resources
+C:\Users\mauri\Desktop\cluzel_ophelie\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\bin\Debug\ProjetFBRWF.exe.config
+C:\Users\mauri\Desktop\cluzel_ophelie\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\bin\Debug\ProjetFBRWF.exe
+C:\Users\mauri\Desktop\cluzel_ophelie\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\bin\Debug\ProjetFBRWF.pdb
+C:\Users\mauri\Desktop\cluzel_ophelie\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\bin\Debug\System.Drawing.Common.dll
+C:\Users\mauri\Desktop\cluzel_ophelie\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.csproj.AssemblyReference.cache
+C:\Users\mauri\Desktop\cluzel_ophelie\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.AvatarDlg.resources
+C:\Users\mauri\Desktop\cluzel_ophelie\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.Form1.resources
+C:\Users\mauri\Desktop\cluzel_ophelie\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.MajDlg.resources
+C:\Users\mauri\Desktop\cluzel_ophelie\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.Properties.Resources.resources
+C:\Users\mauri\Desktop\cluzel_ophelie\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.SaisieDlg.resources
+C:\Users\mauri\Desktop\cluzel_ophelie\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.SuppDlg.resources
+C:\Users\mauri\Desktop\cluzel_ophelie\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.VisuDlg.resources
+C:\Users\mauri\Desktop\cluzel_ophelie\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.csproj.GenerateResource.cache
+C:\Users\mauri\Desktop\cluzel_ophelie\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.csproj.CoreCompileInputs.cache
+C:\Users\mauri\Desktop\cluzel_ophelie\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.csproj.CopyComplete
+C:\Users\mauri\Desktop\cluzel_ophelie\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.exe
+C:\Users\mauri\Desktop\cluzel_ophelie\ProjetFBRpartieWF\ProjetFBRWF\ProjetFBRWF\obj\Debug\ProjetFBRWF.pdb
